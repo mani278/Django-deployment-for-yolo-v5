@@ -11,9 +11,9 @@
 
 ##### Create a new environment
 
-##### Download the necessary packages on th environment
+##### Download the necessary packages on the environment
 
-##### Open the repo in vscode or pycharm with th env enabled
+##### Open the repo in vscode or pycharm with the env enabled
 
 ##### Run the server of django using the command 'python manage.py runserver'
 
